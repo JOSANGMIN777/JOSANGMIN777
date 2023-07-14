@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=628fda&text=SSAFY%2010)
 
 <!--
 **JOSANGMIN777/JOSANGMIN777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
