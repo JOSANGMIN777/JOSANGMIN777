@@ -7,5 +7,4 @@
 :bookmark: - I'm currently interested in FinTech
 
 :trident: - my skills
-<img src="https://img.shields.io/badge/python컬러코드?style=원하는스타일&logo=#3776AB&logoColor=white"/>
-<img src="https://img.shields.io/badge/텍스트-컬러코드?style=원하는스타일&logo=아이콘이름&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-#3776AB?style=square&logo=python&logoColor=white"/>
