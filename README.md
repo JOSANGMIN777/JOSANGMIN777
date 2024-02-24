@@ -13,7 +13,7 @@
 -
 
 :trident: my skills <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=square-flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=square-flat&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square-flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square-flat&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=square-flat&logo=Django&logoColor=white"/>
@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=square-flat&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mattermost-0058CC?style=square-flat&logo=Mattermost&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=square-flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=square-flat&logo=GitHub&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Gitlab-FC6D26?style=square-flat&logo=Gitlab&logoColor=white"/> 
 -
 
 
