@@ -12,7 +12,7 @@
 :bookmark: I'm currently interested in FinTech :moneybag:
 -
 
-:trident: my skills <br>
+:trident: my Skills <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=square-flat&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square-flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square-flat&logo=Vue.js&logoColor=white"/>
