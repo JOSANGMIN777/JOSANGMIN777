@@ -4,7 +4,7 @@
 :briefcase: I’m currently working on projects in <img src="https://img.shields.io/badge/SSAFY-61DAFB?style=square-flat&logo=SSAFY&logoColor=white"/> 
 -
 
-:computer: I’m currently learning <img src="https://img.shields.io/badge/React-61DAFB?style=square-flat&logo=react&logoColor=white"/> and algorithm
+:computer: I’m currently learning algorithm
 -
 
 :telephone_receiver: How to reach me: nice6122@naver.com  
@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=square-flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=square-flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=square-flat&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/three.js-000000?style=square-flat&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=square-flat&logo=React&logoColor=white"/>
 <br>
 :runner: Collaboration tools <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=square-flat&logo=Git&logoColor=white"/>
