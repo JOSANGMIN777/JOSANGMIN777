@@ -9,7 +9,7 @@
 
 :telephone_receiver: How to reach me: nice6122@naver.com  
 -
-> I'll respond you as soon as possible !!!
+> I'll respond you as soon as possible !
 
 
 :trident: Technology Stacks <br>
