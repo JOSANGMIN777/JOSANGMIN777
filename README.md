@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=square-flat&logo=Gitlab&logoColor=white"/> 
 -
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nice6122)](https://solved.ac/nice6122/)
+
 
 
 
