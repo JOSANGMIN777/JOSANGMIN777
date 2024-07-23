@@ -1,7 +1,7 @@
  :raised_hands: Welcome To My GitHub!!!
  -
 
-:briefcase: I’m currently working on projects in <img src="https://img.shields.io/badge/SSAFY-61DAFB?style=square-flat&logo=SSAFY&logoColor=white"/> 
+:briefcase: I’m from <img src="https://img.shields.io/badge/SSAFY-61DAFB?style=square-flat&logo=SSAFY&logoColor=white"/> 
 -
 
 :computer: I’m currently learning algorithm
