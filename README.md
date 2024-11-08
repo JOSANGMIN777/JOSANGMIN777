@@ -15,6 +15,7 @@
 :trident: Technology Skills <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=square-flat&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square-flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=square-flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=square-flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square-flat&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/three.js-000000?style=square-flat&logo=three.js&logoColor=white"/>
