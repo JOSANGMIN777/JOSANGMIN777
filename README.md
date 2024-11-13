@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=square-flat&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=square-flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=square-flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=square-flat&logo=MUI&logoColor=white"/>
 <br>
 :runner: Collaboration tools <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=square-flat&logo=Git&logoColor=white"/>
