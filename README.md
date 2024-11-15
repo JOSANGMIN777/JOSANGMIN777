@@ -34,7 +34,6 @@
 -
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nice6122)](https://solved.ac/nice6122/)
-[![Guest Book](http://yourdomain.com/api/v1/guest-book-image)](http://yourdomain.com/guest-book)
 
 
 
